@@ -1,16 +1,17 @@
-# googlemapdirection
+# Real-Time Location Tracker Flutter
 
-A new Flutter project.
 
-## Getting Started
+Google Map with GPS Location
 
-This project is a starting point for a Flutter application.
+## Used  Plugin
 
-A few resources to get you started if this is your first Flutter project:
+1. [google_maps_flutter: ^2.4.0](https://pub.dev/packages/google_maps_flutter)
+2. [location: ^5.0.3](https://pub.dev/packages/location)
+    
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+# User Interface
+<img src="" width="25%" height="25%">
+<img src="" width="25%" height="25%"><hr>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="" width="25%" height="25%">
+<img src="" width="25%" height="25%"><hr>
